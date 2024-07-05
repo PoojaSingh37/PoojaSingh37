@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">My name is  Pooja Singh and I am Front-end Developer(React).</h2>
+<h2 align="left">My name is  Pooja Singh and I am Front-end Developer(Reactjs).</h2>
 
 ###
 
